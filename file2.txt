@@ -1,0 +1,3 @@
+this is my file 2
+this is a nano file 
+i havew madew this in gitbash
